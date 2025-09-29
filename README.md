@@ -27,4 +27,4 @@ cargo run
 ```
 ---
 
-
+![Rust CI](https://github.com/natso-koti/rust-learning/actions/workflows/rust.yml/badge.svg)
