@@ -24,3 +24,15 @@ Each milestone is a separate Cargo project:
 ```bash
 cd milestone-03-ownership
 cargo run
+
+---
+
+## 🔧 GitHub Workflow  
+
+1. **One repo** called `rust-learning` (or similar).  
+2. Each milestone = a subfolder with its own Cargo project (`cargo new milestone-xx-name`).  
+3. Push progress often:  
+   ```bash
+   git add .
+   git commit -m "Completed milestone 03: Ownership & References"
+   git push origin main
