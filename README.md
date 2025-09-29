@@ -1,3 +1,4 @@
+![Rust CI](https://github.com/natso-koti/rust-learning/actions/workflows/rust.yml/badge.svg)
 # Rust Learning Deliverables
 
 This repo contains my milestone projects from *The Rust Programming Language* (Nichols & Klabnik).  
@@ -27,4 +28,4 @@ cargo run
 ```
 ---
 
-![Rust CI](https://github.com/natso-koti/rust-learning/actions/workflows/rust.yml/badge.svg)
+
